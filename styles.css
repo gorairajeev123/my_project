@@ -3,5 +3,9 @@
 	width: 90%;
 	margin: auto;
 	color: black;
-	font-family: monospace;
+	font-family: sans-serif;
+} 
+
+#main_header{
+	text-align: center;
 } 
